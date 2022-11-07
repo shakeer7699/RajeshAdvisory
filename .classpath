@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-18">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Jars/ExtentReport/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="Jars/ExtentReport/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="Jars/ExtentReport/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="Jars/ExtentReport/extentreports-3.1.2.jar"/>
+	<classpathentry kind="lib" path="Jars/ExtentReport/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="Jars/ExtentReport/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="Jars/ExtentReport/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="Jars/ExtentReport/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="Jars/ExtentReport/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="Jars/ExtentReport/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="Jars/ExtentReport/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="Jars/ExtentReport/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="Jars/TestNG/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="Jars/TestNG/jquery-3.6.0.jar"/>
+	<classpathentry kind="lib" path="Jars/TestNG/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="Jars/TestNG/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="Jars/TestNG/testng-7.6.0.jar"/>
+	<classpathentry kind="lib" path="Jars/Selenium/selenium-server-4.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
